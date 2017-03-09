@@ -15,5 +15,5 @@ print(variable)
 
 # case 4: another number (sort of)
 variable = 0o1234
-print type(variable)  # it should be "int"
+print(type(variable))  # it should be "int"
 print(variable)
